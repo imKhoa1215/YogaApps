@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|c:\\study\\!mobile development\\dung\\yogacustomer\\customeryoga\\pages\\classesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|solutionrelative:customeryoga\\pages\\classesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|c:\\study\\!mobile development\\dung\\yogacustomer\\customeryoga\\pages\\shoppingcart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|solutionrelative:customeryoga\\pages\\shoppingcart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|c:\\study\\!mobile development\\dung\\yogacustomer\\customeryoga\\pages\\vieworder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|solutionrelative:customeryoga\\pages\\vieworder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|c:\\study\\!mobile development\\dung\\yogacustomer\\customeryoga\\pages\\classesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|solutionrelative:customeryoga\\pages\\classesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|c:\\study\\!mobile development\\dung\\yogacustomer\\customeryoga\\pages\\vieworder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|solutionrelative:customeryoga\\pages\\vieworder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|c:\\study\\!mobile development\\dung\\yogacustomer\\customeryoga\\pages\\shoppingcart.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|solutionrelative:customeryoga\\pages\\shoppingcart.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|c:\\study\\!mobile development\\dung\\yogacustomer\\customeryoga\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|solutionrelative:customeryoga\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|c:\\study\\!mobile development\\dung\\yogacustomer\\customeryoga\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|solutionrelative:customeryoga\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|c:\\study\\!mobile development\\dung\\yogacustomer\\customeryoga\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|solutionrelative:customeryoga\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|c:\\study\\!mobile development\\dung\\yogacustomer\\customeryoga\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|solutionrelative:customeryoga\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|c:\\study\\!mobile development\\dung\\yogacustomer\\customeryoga\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|solutionrelative:customeryoga\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|c:\\study\\!mobile development\\dung\\yogacustomer\\customeryoga\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|solutionrelative:customeryoga\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|c:\\study\\!mobile development\\dung\\yogacustomer\\customeryoga\\yogaclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|solutionrelative:customeryoga\\yogaclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|c:\\study\\!mobile development\\dung\\yogacustomer\\customeryoga\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|solutionrelative:customeryoga\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|c:\\study\\!mobile development\\dung\\yogacustomer\\customeryoga\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|solutionrelative:customeryoga\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|c:\\study\\!mobile development\\dung\\yogacustomer\\customeryoga\\google-services.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD310014-6B28-48E3-B7B5-D4A7DF9E1606}|CustomerYoga\\CustomerYoga.csproj|solutionrelative:customeryoga\\google-services.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "CustomerYoga\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "CustomerYoga\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:50:26.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "CustomerYoga\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "CustomerYoga\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:50:17.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\AppShell.xaml",
+              "RelativeDocumentMoniker": "CustomerYoga\\AppShell.xaml",
+              "ToolTip": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\AppShell.xaml",
+              "RelativeToolTip": "CustomerYoga\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T10:50:11.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\App.xaml",
+              "RelativeDocumentMoniker": "CustomerYoga\\App.xaml",
+              "ToolTip": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\App.xaml",
+              "RelativeToolTip": "CustomerYoga\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T10:50:08.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "CustomerYoga\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\MainPage.xaml.cs",
+              "RelativeToolTip": "CustomerYoga\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:49:52.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "YogaClass.cs",
+              "DocumentMoniker": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\YogaClass.cs",
+              "RelativeDocumentMoniker": "CustomerYoga\\YogaClass.cs",
+              "ToolTip": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\YogaClass.cs",
+              "RelativeToolTip": "CustomerYoga\\YogaClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:49:45.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\Order.cs",
+              "RelativeDocumentMoniker": "CustomerYoga\\Order.cs",
+              "ToolTip": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\Order.cs",
+              "RelativeToolTip": "CustomerYoga\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:49:44.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassesView.xaml",
+              "DocumentMoniker": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\Pages\\ClassesView.xaml",
+              "RelativeDocumentMoniker": "CustomerYoga\\Pages\\ClassesView.xaml",
+              "ToolTip": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\Pages\\ClassesView.xaml",
+              "RelativeToolTip": "CustomerYoga\\Pages\\ClassesView.xaml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwDkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T10:48:47.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewOrder.xaml",
+              "DocumentMoniker": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\Pages\\ViewOrder.xaml",
+              "RelativeDocumentMoniker": "CustomerYoga\\Pages\\ViewOrder.xaml",
+              "ToolTip": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\Pages\\ViewOrder.xaml",
+              "RelativeToolTip": "CustomerYoga\\Pages\\ViewOrder.xaml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T10:48:38.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCart.xaml",
+              "DocumentMoniker": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\Pages\\ShoppingCart.xaml",
+              "RelativeDocumentMoniker": "CustomerYoga\\Pages\\ShoppingCart.xaml",
+              "ToolTip": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\Pages\\ShoppingCart.xaml",
+              "RelativeToolTip": "CustomerYoga\\Pages\\ShoppingCart.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T10:39:31.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\MainPage.xaml",
+              "RelativeDocumentMoniker": "CustomerYoga\\MainPage.xaml",
+              "ToolTip": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\MainPage.xaml",
+              "RelativeToolTip": "CustomerYoga\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T10:29:32.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "CustomerYoga\\MauiProgram.cs",
+              "ToolTip": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\MauiProgram.cs",
+              "RelativeToolTip": "CustomerYoga\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:29:23.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewOrder.xaml.cs",
+              "DocumentMoniker": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\Pages\\ViewOrder.xaml.cs",
+              "RelativeDocumentMoniker": "CustomerYoga\\Pages\\ViewOrder.xaml.cs",
+              "ToolTip": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\Pages\\ViewOrder.xaml.cs",
+              "RelativeToolTip": "CustomerYoga\\Pages\\ViewOrder.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAD4vyAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:23:45.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingCart.xaml.cs",
+              "DocumentMoniker": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\Pages\\ShoppingCart.xaml.cs",
+              "RelativeDocumentMoniker": "CustomerYoga\\Pages\\ShoppingCart.xaml.cs",
+              "ToolTip": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\Pages\\ShoppingCart.xaml.cs",
+              "RelativeToolTip": "CustomerYoga\\Pages\\ShoppingCart.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:23:40.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassesView.xaml.cs",
+              "DocumentMoniker": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\Pages\\ClassesView.xaml.cs",
+              "RelativeDocumentMoniker": "CustomerYoga\\Pages\\ClassesView.xaml.cs",
+              "ToolTip": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\Pages\\ClassesView.xaml.cs",
+              "RelativeToolTip": "CustomerYoga\\Pages\\ClassesView.xaml.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAADwvx8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:23:31.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "google-services.json",
+              "DocumentMoniker": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\google-services.json",
+              "RelativeDocumentMoniker": "CustomerYoga\\google-services.json",
+              "ToolTip": "C:\\Study\\!Mobile Development\\Dung\\YogaCustomer\\CustomerYoga\\google-services.json",
+              "RelativeToolTip": "CustomerYoga\\google-services.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T10:22:30.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

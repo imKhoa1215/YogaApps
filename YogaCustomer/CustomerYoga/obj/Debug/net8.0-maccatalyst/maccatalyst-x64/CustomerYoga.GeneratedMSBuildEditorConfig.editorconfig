@@ -1,0 +1,65 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CustomerYoga
+build_property.ProjectDir = C:\Study\!Mobile Development\Dung\YogaCustomer\CustomerYoga\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Study/\!Mobile Development/Dung/YogaCustomer/CustomerYoga/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CustomerYoga.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Study/\!Mobile Development/Dung/YogaCustomer/CustomerYoga/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CustomerYoga.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Study/\!Mobile Development/Dung/YogaCustomer/CustomerYoga/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CustomerYoga.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Study/\!Mobile Development/Dung/YogaCustomer/CustomerYoga/Pages/ClassesView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CustomerYoga.Pages.ClassesView.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ClassesView.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ClassesView.xaml
+
+[C:/Study/\!Mobile Development/Dung/YogaCustomer/CustomerYoga/Pages/ShoppingCart.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CustomerYoga.Pages.ShoppingCart.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ShoppingCart.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ShoppingCart.xaml
+
+[C:/Study/\!Mobile Development/Dung/YogaCustomer/CustomerYoga/Pages/ViewOrder.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CustomerYoga.Pages.ViewOrder.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ViewOrder.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ViewOrder.xaml
+
+[C:/Study/\!Mobile Development/Dung/YogaCustomer/CustomerYoga/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CustomerYoga.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Study/\!Mobile Development/Dung/YogaCustomer/CustomerYoga/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CustomerYoga.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

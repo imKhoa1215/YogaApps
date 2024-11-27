@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CustomerYoga.Pages.ViewOrder"
+             Title="View Order">
+    <!-- Defines the layout for the "View Order" page -->
+    <ContentPage.Content>
+        <StackLayout>
+            <!-- Search bar to filter orders by user email -->
+            <SearchBar x:Name="SearchBar"
+                       Placeholder="Search by email"
+                       TextChanged="OnSearchBarTextChanged" />
+
+            <!-- Page heading for the order list -->
+            <Label Text="Yoga Classes Ordered"
+                   Margin="0,10,0,0"
+                   FontSize="Large"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Start" />
+
+            <!-- ListView to display the list of orders -->
+            <ListView x:Name="OrderListView">
+                <!-- Template for each order item in the list -->
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <!-- ViewCell specifies the layout for each individual item -->
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal" Padding="2">
+                                <!-- Container for order details -->
+                                <StackLayout Orientation="Vertical" HorizontalOptions="StartAndExpand">
+                                    <!-- Row for email and class name -->
+                                    <StackLayout Orientation="Horizontal" HorizontalOptions="StartAndExpand">
+                                        <!-- Display the email of the user who placed the order -->
+                                        <Label Text="{Binding Email}" 
+                                               FontAttributes="Bold" 
+                                               LineBreakMode="WordWrap" />
+                                        <!-- Display the name of the ordered yoga class -->
+                                        <Label Text="{Binding ClassOdered.Name}" 
+                                               FontSize="Small" 
+                                               LineBreakMode="WordWrap" 
+                                               Margin="10, 0, 0, 0" />
+                                    </StackLayout>
+                                    <!-- Display the date of the order -->
+                                    <Label Text="{Binding Date, StringFormat='Date: {0:yyyy-MM-dd}'}" 
+                                           FontSize="Small" 
+                                           LineBreakMode="NoWrap" />
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

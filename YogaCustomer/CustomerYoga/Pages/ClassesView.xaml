@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CustomerYoga.Pages.ClassesView"
+             Title="Classes">
+    <!-- Defines the content for the "Classes" page -->
+    <ContentPage.Content>
+        <StackLayout>
+            <!-- Search bar to filter classes by date -->
+            <SearchBar x:Name="SearchBar"
+                       Placeholder="Search by date"
+                       TextChanged="OnSearchBarTextChanged" />
+
+            <!-- Label to display the page title -->
+            <Label Text="Yoga Classes"
+                   Margin="0,10,0,0"
+                   FontSize="Large"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Start" />
+
+            <!-- ListView to display the list of yoga classes -->
+            <ListView x:Name="ClassesListView">
+                <!-- Defines the layout and appearance of each item in the ListView -->
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <!-- ViewCell defines how each item in the ListView appears -->
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal" Padding="2">
+                                <!-- Layout for class details -->
+                                <StackLayout Orientation="Vertical" HorizontalOptions="StartAndExpand">
+                                    <!-- Row for class name and teacher name -->
+                                    <StackLayout Orientation="Horizontal" HorizontalOptions="StartAndExpand">
+                                        <!-- Displays the class name -->
+                                        <Label Text="{Binding Name}" 
+                                               FontAttributes="Bold" 
+                                               LineBreakMode="WordWrap" />
+                                        <!-- Displays the teacher's name -->
+                                        <Label Text="{Binding Teacher}" 
+                                               FontSize="Small" 
+                                               LineBreakMode="WordWrap" 
+                                               Margin="10, 0, 0, 0" />
+                                    </StackLayout>
+                                    <!-- Displays the date of the class -->
+                                    <Label Text="{Binding Date, StringFormat='Date: {0:yyyy-MM-dd}'}" 
+                                           FontSize="Small" 
+                                           LineBreakMode="NoWrap" />
+                                </StackLayout>
+                                <!-- Button to order the class -->
+                                <Button Text="Order"
+                                        VerticalOptions="Center"
+                                        HorizontalOptions="End"
+                                        Command="{Binding Source={x:Reference ClassesListView}, Path=BindingContext.OrderCommand}"
+                                        CommandParameter="{Binding .}" />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

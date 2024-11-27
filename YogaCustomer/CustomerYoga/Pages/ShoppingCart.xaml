@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CustomerYoga.Pages.ShoppingCart"
+             Title="Cart">
+    <!-- Defines the layout for the "Shopping Cart" page -->
+    <StackLayout Padding="10">
+        <!-- Page title -->
+        <Label Text="Shopping Cart" 
+               FontSize="Large" 
+               HorizontalOptions="Center" />
+
+        <!-- Section to display selected class name and teacher -->
+        <StackLayout Orientation="Horizontal" 
+                     Padding="5" 
+                     Margin="0, 30, 0, 0">
+            <!-- Displays the name of the yoga class -->
+            <Label Text="{Binding Name}" 
+                   FontSize="Medium" 
+                   VerticalOptions="Center" />
+            <!-- Displays the teacher's name -->
+            <Label Text="{Binding Teacher}" 
+                   FontSize="Small" 
+                   VerticalOptions="Center" 
+                   HorizontalOptions="EndAndExpand" />
+        </StackLayout>
+
+        <!-- Section to display additional class details -->
+        <StackLayout Orientation="Vertical" 
+                     Padding="5" 
+                     Margin="0, 10, 0, 0">
+            <!-- Displays the date of the yoga class -->
+            <Label Text="{Binding Date}" 
+                   FontSize="Small" 
+                   VerticalOptions="Center" />
+            <!-- Displays any comments or notes associated with the class -->
+            <Label Text="{Binding Comment}" 
+                   FontSize="Small" 
+                   HorizontalOptions="Start" />
+        </StackLayout>
+
+        <!-- Section for email input -->
+        <StackLayout Orientation="Vertical" 
+                     Padding="5" 
+                     Margin="0, 50, 0, 0">
+            <!-- Instructional label for email input -->
+            <Label Text="Enter your email to purchase:" 
+                   FontSize="Medium" 
+                   VerticalOptions="Center" />
+            <!-- Input field for email address -->
+            <Entry x:Name="EmailEntry" 
+                   Placeholder="Email" 
+                   Keyboard="Email" />
+        </StackLayout>
+
+        <!-- Button to initiate the checkout process -->
+        <Button Text="Checkout" 
+                VerticalOptions="EndAndExpand" 
+                HorizontalOptions="Center" 
+                Clicked="OnCheckoutClicked" />
+    </StackLayout>
+</ContentPage>
